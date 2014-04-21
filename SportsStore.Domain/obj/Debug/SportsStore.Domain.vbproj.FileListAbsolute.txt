@@ -1,8 +1,0 @@
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.xml
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.Resources.resources
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.vbproj.GenerateResource.Cache
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.xml
-C:\inetpub\wwwroot\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
