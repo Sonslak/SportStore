@@ -39,9 +39,12 @@ C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\SportStore.WebUI.pdb
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Antlr3.Runtime.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\EntityFramework.dll
+C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Moq.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Ninject.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\SportStore.Domain.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\System.Net.Http.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\System.Net.Http.Formatting.dll
@@ -58,6 +61,9 @@ C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\System.Web.WebPages.Razor.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\WebGrease.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\SportStore.Domain.pdb
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\EntityFramework.xml
+C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Moq.xml
+C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Ninject.xml
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Newtonsoft.Json.xml
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\System.Net.Http.xml
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\System.Net.Http.Formatting.xml
@@ -72,9 +78,3 @@ C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\System.Web.WebPages.Razor.xml
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.csprojResolveAssemblyReference.cache
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
 C:\inetpub\wwwroot\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
-C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Moq.dll
-C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Ninject.dll
-C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Moq.xml
-C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\Ninject.xml
-C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
-C:\inetpub\wwwroot\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
