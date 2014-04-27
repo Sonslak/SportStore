@@ -14,10 +14,12 @@ namespace SportStore.WebUI.Controllers
     {
         private IProductRepository repository;
         public int PageSize = 4;
+
         public ProductController(IProductRepository productRepository)
         {
             this.repository = productRepository;
         }
+
         public ViewResult List(string category, int page = 1)
         {
             ProductsListViewModel viewModel = new ProductsListViewModel

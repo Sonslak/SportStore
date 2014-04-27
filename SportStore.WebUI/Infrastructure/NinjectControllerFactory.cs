@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Moq;
 using SportStore.Domain.Concrete;
-
+using System.Configuration;
 
 namespace SportStore.WebUI.Infrastructure
 {
@@ -27,7 +27,15 @@ namespace SportStore.WebUI.Infrastructure
 
         private void AddBindings()
         {
-            ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>(); 
+            ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>();
+
+            EmailSettings emailSettings = new EmailSettings
+            {
+               // WriteAsFile = bool.Parse(ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false")
+                WriteAsFile = true
+            };
+
+            ninjectKernel.Bind<IOrderProcessor>().To<EmailOrderProcessor>().WithConstructorArgument("settings", emailSettings);
         }
     }
 }
