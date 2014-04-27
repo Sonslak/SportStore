@@ -15,7 +15,7 @@ namespace SportStore.WebUI
 
             routes.MapRoute(null,
                "",
-               new{controller = "Product",action = "List",category = (string)null,page = 1}
+               new {controller = "Product", action = "List", category = (string)null, page = 1}
             );
 
             routes.MapRoute(null,
